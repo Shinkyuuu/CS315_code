@@ -43,7 +43,7 @@ void addSortedItems(item **start) //Add Items in numerical order
       traverse = (*start);
       tmp = malloc(sizeof(item));
 
-      printf("Enter an integer: ");
+      printf("Enter an integer ('0' to end): ");
       scanf("%d", &(tmp->value));
 
       if (tmp->value == 0) 
