@@ -5,7 +5,7 @@
 *
 *   Program to allow the user to create a numerically ordered linked list and delete items within it
 **********************************************************************/
-
+ 
 #include<stdio.h>
 #include<stdlib.h>
 #include<stdbool.h> //use booleans
