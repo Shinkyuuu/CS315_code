@@ -16,6 +16,9 @@
   ◻️ After <b>"0"</b> is inputted, a link list is printed to the screen with the option to delete a node
   * The user can input any integer and if it exists within the linked list, it will be deleted until there are no nodes left
 
+### Demonstration
+<p> %nbsp <img src="http://g.recordit.co/lEqh1zh16j.gif"></p>
+
 ### ♦️ Homework \#2
 --- 
   ### Header Files
@@ -30,6 +33,9 @@
   ◻️ If <b>r</b> is inputted, the oldest integer in the queue will be removed
   <br></br>
   ◻️ quit is self explanitory
+  
+### Demonstration
+<p> %nbsp <img src="http://g.recordit.co/B3383aqWT4.gif"></p>
 
 ### ♦️ Homework \#3
 --- 
@@ -43,6 +49,9 @@
 * Funcionally this program works similarly to that in Homework 2
   * The difference being that <b>Characters</b> are inputted into the queue rather than just <b>Integers</b>
   * The same options are given and they perform the same actions
+
+### Demonstration
+<p> %nbsp <img src="http://g.recordit.co/uHL3Xz35j2.gif"></p>
 
 ### ♦️ Homework \#4
 --- 
@@ -64,6 +73,9 @@
   * Upon entering the <b>key</b>, the associated value will be printed to the screen.
   <br></br>
   ◻️ Again, quit needs no explanation
+  
+### Demonstration
+<p> %nbsp <img src="http://g.recordit.co/aUEF9rOi8i.gif"></p>
 
 ### ♦️ Homework \#5
 --- 
@@ -79,3 +91,6 @@
 * After this, the user gets prompted for another <b>Character</b> again
 <br></br>
 ◻️ If the user inputs <b>"$"</b>, the huffman tree will be printed to the screen as a Pre- and In-order traversal
+
+### Demonstration
+<p> %nbsp <img src="http://g.recordit.co/M3X2En5q3P.gif"></p>
