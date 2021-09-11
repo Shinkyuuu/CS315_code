@@ -1,13 +1,13 @@
 # CS315_code 
 
-### ♦️ Homework \#1
----
-  ### Header Files
+# ♦️ Homework \#1
+
+  ## Header Files
   * stdio.h
   * stdlib.h
   * stdbool.h
   
-### Explanation 
+## Explanation 
 * Program that allows the user to create a numerically ordered linked list and delete items within it
 <br></br>
 * Inputs are to be <b>Integers</b> accepted continuously until the user types in <b>"0"</b>
@@ -16,15 +16,15 @@
   ◻️ After <b>"0"</b> is inputted, a link list is printed to the screen with the option to delete a node
   * The user can input any integer and if it exists within the linked list, it will be deleted until there are no nodes left
 
-### Demonstration
-<p> %nbsp <img src="http://g.recordit.co/lEqh1zh16j.gif"></p>
+## Demonstration
+<p align="center"><img src="http://g.recordit.co/lEqh1zh16j.gif"></p>
 
-### ♦️ Homework \#2
---- 
-  ### Header Files
+# ♦️ Homework \#2
+
+  ## Header Files
   * stdio.h
 
-### Explanation
+## Explanation
 * Program that creates a queue data structure with an array with insertion and deletion funcionality
 <br></br>
 * The program gives the user 3 options for inputs, <b>i for insert, r for remove, and q for quit</b>
@@ -34,33 +34,33 @@
   <br></br>
   ◻️ quit is self explanitory
   
-### Demonstration
-<p> %nbsp <img src="http://g.recordit.co/B3383aqWT4.gif"></p>
+## Demonstration
+<p align="center"><img src="http://g.recordit.co/B3383aqWT4.gif"></p>
 
-### ♦️ Homework \#3
---- 
-  ### Header Files
+# ♦️ Homework \#3
+
+  ## Header Files
   * stdio.h
   * stdlib.h
 
-### Explanation
+## Explanation
 * Program that creates a queue with a circular linked list with insertion and removal funcionality
 <br></br>
 * Funcionally this program works similarly to that in Homework 2
   * The difference being that <b>Characters</b> are inputted into the queue rather than just <b>Integers</b>
   * The same options are given and they perform the same actions
 
-### Demonstration
-<p> %nbsp <img src="http://g.recordit.co/uHL3Xz35j2.gif"></p>
+## Demonstration
+<p align="center"><img src="http://g.recordit.co/uHL3Xz35j2.gif"></p>
 
-### ♦️ Homework \#4
---- 
-  ### Header Files
+# ♦️ Homework \#4
+
+  ## Header Files
   * stdio.h
   * stdlib.h
   * ctype.h
   
-### Explanation
+## Explanation
 * Program that creates a binary tree with insertion, searching, and pre/in-order traversal functions
 * The binary tree is sorted by the position of the letters of the alphabet
 <br></br>
@@ -74,16 +74,16 @@
   <br></br>
   ◻️ Again, quit needs no explanation
   
-### Demonstration
-<p> %nbsp <img src="http://g.recordit.co/aUEF9rOi8i.gif"></p>
+## Demonstration
+<p align="center"><img src="http://g.recordit.co/aUEF9rOi8i.gif"></p>
 
-### ♦️ Homework \#5
---- 
-  ### Header Files
+# ♦️ Homework \#5
+
+  ## Header Files
   * stdio.h
   * stdlib.h
   
-### Explanation
+## Explanation
 * Program that creates a huffman tree using a little end up heap as an auxilary data structure
 <br></br>
 ◻️ The user is first prompted to enter a <b>Character</b> and the option of typing <b>"$"</b> to quit
@@ -92,5 +92,5 @@
 <br></br>
 ◻️ If the user inputs <b>"$"</b>, the huffman tree will be printed to the screen as a Pre- and In-order traversal
 
-### Demonstration
-<p> %nbsp <img src="http://g.recordit.co/M3X2En5q3P.gif"></p>
+## Demonstration
+<p align="center"><img src="http://g.recordit.co/M3X2En5q3P.gif"></p>
