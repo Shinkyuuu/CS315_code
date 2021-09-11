@@ -1,6 +1,6 @@
-# CS315_code 
+# CS315 code 🥦🌿🌲
 
-# ♦️ Homework \#1
+# 🏮 Homework \#1
 
   ## Header Files
   * stdio.h
@@ -19,7 +19,7 @@
 ## Demonstration
 <p align="center"><img src="http://g.recordit.co/lEqh1zh16j.gif" width="550"></p>
 
-# ♦️ Homework \#2
+# 🏮 Homework \#2
 
   ## Header Files
   * stdio.h
@@ -37,7 +37,7 @@
 ## Demonstration
 <p align="center"><img src="http://g.recordit.co/B3383aqWT4.gif" width="550"></p>
 
-# ♦️ Homework \#3
+# 🏮 Homework \#3
 
   ## Header Files
   * stdio.h
@@ -53,7 +53,7 @@
 ## Demonstration
 <p align="center"><img src="http://g.recordit.co/uHL3Xz35j2.gif" width="550"></p>
 
-# ♦️ Homework \#4
+# 🏮 Homework \#4
 
   ## Header Files
   * stdio.h
@@ -77,7 +77,7 @@
 ## Demonstration
 <p align="center"><img src="http://g.recordit.co/aUEF9rOi8i.gif" width="550"></p>
 
-# ♦️ Homework \#5
+# 🏮 Homework \#5
 
   ## Header Files
   * stdio.h
